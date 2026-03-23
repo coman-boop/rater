@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Everest Rate Engine"
+AuthUserFile /homepages/XX/dXXXXXXXXX/htdocs/rater/.htpasswd
+Require valid-user
